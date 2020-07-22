@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Compiled contributions for @crimson-med @MedericPixium
+
+![contributions](https://avallon.io:8443/users/MedericPixium,crimson-med/graph/sunsetred)
+
 <!--
 **crimson-med/crimson-med** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
