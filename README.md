@@ -4,6 +4,8 @@
 
 ![contributions](https://avallon.io:8443/users/MedericPixium,crimson-med/graph/sunsetred)
 
+![stats](https://github-readme-stats.vercel.app/api?username=crimson-med&show_icons=true&theme=dracula)
+
 <!--
 **crimson-med/crimson-med** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
