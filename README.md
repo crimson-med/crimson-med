@@ -1,31 +1,42 @@
-### Hi there 👋
+<a href="https://mederic.me"><img src="./assets/hero.svg" width="100%" alt="Burlet Médéric. I help teams make AI actually stick. mederic.me" /></a>
 
-### Compiled contributions for @crimson-med @MedericPixium
+<a href="https://github.com/starside-io"><img src="./assets/projects-header.svg" width="100%" alt="Key initiatives, built under Starside Labs" /></a>
 
-<!-- Copy-paste in your Readme.md file -->
+<!-- TODO: point the Fellowship card at its public repo URL -->
+<p>
+  <a href="https://github.com/crimson-med/fellowship"><img src="./assets/project-fellowship.svg" width="32%" alt="Fellowship" /></a>
+  <a href="https://github.com/starside-io/neurowire"><img src="./assets/project-neurowire.svg" width="32%" alt="Neurowire" /></a>
+  <a href="https://github.com/crimson-med/cozy-steamworks"><img src="./assets/project-cozy-steamworks.svg" width="32%" alt="Cozy Steamworks" /></a>
+</p>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=28290546" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=28290546&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @crimson-med" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=28290546&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+<p>
+  <a href="https://github.com/crimson-med/openquestformat"><img src="./assets/project-oqf.svg" width="32%" alt="Open Quest Format" /></a>
+  <a href="https://github.com/starside-io/langdrift"><img src="./assets/project-langdrift.svg" width="32%" alt="Langdrift" /></a>
+  <a href="https://github.com/starside-io/ghostwriter"><img src="./assets/project-ghostwriter.svg" width="32%" alt="Ghostwriter" /></a>
+</p>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<a href="https://mederic.me/about"><img src="./assets/terminal.svg" width="100%" alt="whoami: Tech Lead, FDE Lead, AI Trainer, Speaker" /></a>
 
-![stats](https://github-readme-stats.vercel.app/api?username=crimson-med&show_icons=true&theme=dracula)
+<a href="https://mederic.me/blog"><img src="./assets/writing-header.svg" width="100%" alt="From the blog" /></a>
 
-<!--
-**crimson-med/crimson-med** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://mederic.me/blog/scope-beats-autonomy"><img src="./assets/post-scope-beats-autonomy.svg" width="49%" alt="Scope beats autonomy" /></a>
+  <a href="https://mederic.me/blog/measuring-ai-productivity"><img src="./assets/post-measuring-ai-productivity.svg" width="49%" alt="How to measure 2-3x" /></a>
+</p>
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://mederic.me/blog/700-engineers-on-adoption"><img src="./assets/post-700-engineers-on-adoption.svg" width="49%" alt="What 700 trained engineers taught me" /></a>
+  <a href="https://mederic.me/blog/oqf-no-engine-owns-your-quests"><img src="./assets/post-oqf-no-engine-owns-your-quests.svg" width="49%" alt="An open quest spec instead of a plugin" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://mederic.me/blog/rust-native-module-four-targets"><img src="./assets/post-rust-native-module-four-targets.svg" width="49%" alt="A Rust native module to four targets" /></a>
+  <a href="https://mederic.me/blog/nwf-format-design"><img src="./assets/post-nwf-format-design.svg" width="49%" alt="Designing NWF" /></a>
+</p>
+
+<p align="center">
+  <a href="https://mederic.me"><img src="https://img.shields.io/badge/mederic.me-DC143C?style=for-the-badge&logo=astro&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/mederic-burlet"><img src="https://img.shields.io/badge/LinkedIn-10131A?style=for-the-badge&logo=linkedin&logoColor=FF4D6D" alt="LinkedIn" /></a>
+  <a href="https://github.com/starside-io"><img src="https://img.shields.io/badge/Starside_Labs-10131A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Starside Labs" /></a>
+  <a href="mailto:mederic.burlet@gmail.com"><img src="https://img.shields.io/badge/Email-10131A?style=for-the-badge&logo=gmail&logoColor=FF4D6D" alt="Email" /></a>
+</p>

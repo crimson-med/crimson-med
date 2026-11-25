@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="150" viewBox="0 0 412 150" fill="none">
+<style>
+.sans{font-family:'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif} .mono{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes spinr{to{transform:rotate(-360deg)}}
+@keyframes dash{to{stroke-dashoffset:0}}
+@keyframes march{to{stroke-dashoffset:-40}}
+.fu{animation:fadeUp .7s cubic-bezier(.2,.7,.2,1) backwards}
+.fd{animation:fade .5s ease backwards}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+  <linearGradient id="cr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF4D6D"/><stop offset="1" stop-color="#DC143C"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DC143C" stop-opacity=".75"/><stop offset=".45" stop-color="#232832"/><stop offset="1" stop-color="#2DD4BF" stop-opacity=".35"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+  <radialGradient id="fadeMask" cx=".75" cy=".1" r=".9"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  <mask id="gm"><rect width="412" height="150" fill="url(#fadeMask)"/></mask>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="blur" x="-150%" y="-150%" width="400%" height="400%"><feGaussianBlur stdDeviation="60"/></filter>
+  <clipPath id="clip"><rect width="412" height="150" rx="18"/></clipPath>
+  
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="412" height="150" fill="#0A0C10"/>
+  <rect width="412" height="150" fill="url(#grid)" mask="url(#gm)"/>
+  <g class="fu" style="animation-delay:0.25s"><circle cx="0" cy="150" r="90" fill="#DC143C" opacity=".12" filter="url(#blur)"/>
+<rect x="0" y="24" width="3" height="36" rx="1.5" fill="url(#cr)"/>
+<text x="24" y="38" class="mono" font-size="11" fill="#5A6270">OCT 2026</text>
+<rect x="353.6" y="22" width="28.4" height="20" rx="10.0" fill="#DC143C12" stroke="#DC143C55"/><text x="367.8" y="35.6" text-anchor="middle" class="mono" font-size="10" fill="#FF4D6D">ci</text>
+<rect x="306.8" y="22" width="40.8" height="20" rx="10.0" fill="#DC143C12" stroke="#DC143C55"/><text x="327.2" y="35.6" text-anchor="middle" class="mono" font-size="10" fill="#FF4D6D">rust</text>
+<text x="24" y="76" class="sans" font-size="17" font-weight="700" letter-spacing="-.2" fill="#F0F3F6">Shipping a Rust native module to four</text>
+<text x="24" y="100" class="sans" font-size="17" font-weight="700" letter-spacing="-.2" fill="#F0F3F6">targets from one CI</text>
+<text x="24" y="130" class="mono" font-size="11.5" fill="#2DD4BF">read on mederic.me ↗</text></g>
+</g>
+<rect x=".5" y=".5" width="411" height="149" rx="17.5" stroke="url(#edge)"/>
+</svg>
